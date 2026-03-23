@@ -26,7 +26,7 @@
 👨‍💻 Programming and Markup Languages
 <br/>
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -96,7 +96,7 @@
 <div align="center">
   <!-- GitHub Profile Stats -->
   <a href="https://github.com/MithreshMandhrasalam">
-    <img src="https://github-readme-stats.vercel.app/api?username=MithreshMandhrasalam&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MithreshMandhrasalam&theme=react&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" width="48%" />
   </a>
   <!-- Most Used Languages -->
   <a href="https://github.com/MithreshMandhrasalam">
